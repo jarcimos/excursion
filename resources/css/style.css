@@ -15,7 +15,7 @@ h6 {
   font-size: 16px;
 }
 
-h2 {
+.sub {
   font-family: Verdana;
   font-weight: normal;
   font-size: 42px;
@@ -31,8 +31,7 @@ footer {
   color: gray;
 }
 
-.camp,
-.phone {
+.camp {
   display: block;
   margin-left: auto;
   margin-right: auto;
